@@ -14,7 +14,10 @@ Building AI-powered applications, intelligent automation, and real-world softwar
 
 🎓 B.Tech Computer Science Engineering (AI & ML) Student at **Indraprastha Engineering College (AKTU)**
 
-💻 Python Programming Intern @ **DecodeLabs**
+💼 Currently Interning At
+
+- 🐍 **DecodeLabs** — Python Programming Intern
+- 🤖 **IncodeVision** — Artificial Intelligence Intern
 
 🤖 Passionate about
 
