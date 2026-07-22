@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satvik Singhal</h1>
 
 <h3 align="center">
-AI Application Developer • Python Developer • B.Tech CSE (AI & ML) Student
+AI Application Developer • Junior Python Developer • B.Tech CSE (AI & ML) Student
 </h3>
 
 <p align="center">
