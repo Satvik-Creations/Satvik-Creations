@@ -176,7 +176,7 @@ An AI-powered voice calling assistant exploring conversational AI and intelligen
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Satvik-Creations&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Satvik-Creations&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 <img height="170" src="https://streak-stats.demolab.com?user=Satvik-Creations&theme=tokyonight"/>
 
@@ -184,7 +184,7 @@ An AI-powered voice calling assistant exploring conversational AI and intelligen
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satvik-Creations&layout=compact&theme=tokyonight&langs_count=8"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Satvik-Creations&layout=compact&theme=tokyonight"/>
 
 </p>
 
