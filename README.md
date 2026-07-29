@@ -172,19 +172,19 @@ An AI-powered voice calling assistant exploring conversational AI and intelligen
 
 ---
 
-# 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Satvik-Creations&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Satvik-Creations&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Satvik-Creations&theme=tokyonight"/>
+<img height="170" src="https://streak-stats.demolab.com?user=Satvik-Creations&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satvik-Creations&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satvik-Creations&layout=compact&theme=tokyonight&langs_count=8"/>
 
 </p>
 
