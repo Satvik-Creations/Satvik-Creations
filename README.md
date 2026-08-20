@@ -217,12 +217,15 @@ An AI-powered voice calling assistant exploring conversational AI and intelligen
   />
 </p>
 
+## 📈 Contribution Activity
+
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=Satvik-Creations&theme=github-compact&hide_border=true"
     width="95%"
   />
 </p>
+
 ---
 
 # 🌐 Connect with Me
