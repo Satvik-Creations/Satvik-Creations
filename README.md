@@ -175,6 +175,12 @@ An AI-powered voice calling assistant exploring conversational AI and intelligen
 ## 📈 GitHub Stats
 
 <p align="center">
+  
+[![Satvik's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Satvik-Creations&theme=github-compact)](https://github.com/Satvik-Creations)
+
+</p>
+
+<p align="center">
 
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Satvik-Creations&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
