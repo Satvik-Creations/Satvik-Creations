@@ -176,7 +176,7 @@ An AI-powered voice calling assistant exploring conversational AI and intelligen
 
 <p align="center">
   
-[![Satvik's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Satvik-Creations&theme=github-compact)](https://github.com/Satvik-Creations)
+[![Satvik's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Satvik-Creations&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </p>
 
