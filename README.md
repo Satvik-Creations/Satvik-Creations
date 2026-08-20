@@ -16,8 +16,13 @@ Building AI-powered applications, intelligent automation, and real-world softwar
 
 💼 Currently Interning At
 
+- 📊 **InAmigos Foundation (IAF)** — AI Data Analytics Intern
+
+💼 Was An Intern At
+
 - 🐍 **DecodeLabs** — Python Programming Intern
 - 🤖 **IncodeVision** — Artificial Intelligence Intern
+
 
 🤖 Passionate about
 
