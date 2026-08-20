@@ -172,22 +172,19 @@ An AI-powered voice calling assistant exploring conversational AI and intelligen
 
 ---
 
-## 📈 GitHub Stats
-
-[![Satvik's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Satvik-Creations)](https://github.com/Satvik-Creations)
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Satvik-Creations&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=Satvik-Creations&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Satvik-Creations&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satvik-Creations&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satvik-Creations&theme=tokyonight&hide_border=true" />
+</p>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Satvik-Creations&layout=compact&theme=tokyonight"/>
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satvik-Creations&theme=github-compact&hide_border=true" />
 </p>
 
 ---
