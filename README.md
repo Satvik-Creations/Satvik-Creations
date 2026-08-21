@@ -99,6 +99,26 @@ Python • Gemini API • Prompt Engineering
 
 ---
 
+## 📄 AI Resume Screening System
+
+AI-powered resume screening system that automates resume processing, candidate information extraction, job matching, ATS-style scoring, and candidate ranking using n8n and Google services.
+
+**Tech**
+
+n8n • Google Gemini • Google Sheets • Apify • AI Agents
+
+---
+
+## 🔍 AI Incident Observability Analyzer
+
+AI-powered incident response system that analyzes application incidents, observability data, and telemetry to generate intelligent insights and assist with incident investigation.
+
+**Tech**
+
+n8n • Google Gemini • OpenTelemetry • SigNoz • AI Agents
+
+---
+
 ## 🎨 DripEditz
 
 AI Image Editing platform built using Google's Gemini image generation models.
