@@ -111,7 +111,7 @@ n8n • Google Gemini • Google Sheets • Apify • AI Agents
 
 ## 🔍 AI Incident Observability Analyzer
 
-AI-powered incident response system that analyzes application incidents, observability data, and telemetry to generate intelligent insights and assist with incident investigation.
+AI-powered incident response system that uses OpenTelemetry traces and SigNoz observability data to analyze application incidents, identify issues, and generate intelligent insights for faster incident investigation.
 
 **Tech**
 
