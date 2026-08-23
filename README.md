@@ -221,12 +221,14 @@ An AI-powered voice calling assistant exploring conversational AI and intelligen
 
 <p align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=Satvik-Creations&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=Satvik-Creations&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
     height="180"
+    alt="Satvik's GitHub stats"
   />
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Satvik-Creations&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satvik-Creations&layout=compact&theme=tokyonight&hide_border=true"
     height="180"
+    alt="Most used languages"
   />
 </p>
 
@@ -234,8 +236,11 @@ An AI-powered voice calling assistant exploring conversational AI and intelligen
   <img
     src="https://streak-stats.demolab.com/?user=Satvik-Creations&theme=tokyonight&hide_border=true"
     height="180"
+    alt="GitHub streak stats"
   />
 </p>
+
+---
 
 ## 📈 Contribution Activity
 
