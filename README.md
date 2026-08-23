@@ -221,14 +221,12 @@ An AI-powered voice calling assistant exploring conversational AI and intelligen
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Satvik-Creations&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    src="https://github-stats-extended.vercel.app/api?username=Satvik-Creations&show_icons=true&theme=tokyonight&hide_border=true"
     height="180"
-    alt="Satvik's GitHub stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satvik-Creations&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Satvik-Creations&layout=compact&theme=tokyonight&hide_border=true"
     height="180"
-    alt="Most used languages"
   />
 </p>
 
