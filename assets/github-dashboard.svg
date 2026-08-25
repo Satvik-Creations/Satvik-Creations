@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="820" viewBox="0 0 1200 820">
+<rect width="1200" height="820" fill="#0d1117"/>
+<text x="45" y="50" font-family="Arial, Helvetica, sans-serif" font-size="28px" fill="#f0f6fc" font-weight="700" text-anchor="start">📊 GitHub Stats</text>
+<line x1="45" y1="72" x2="1155" y2="72" stroke="#30363d" stroke-width="1"/>
+<rect x="80" y="95" width="530" height="230" rx="7" fill="#1b1f2a" stroke="none"/>
+<text x="105" y="130" font-family="Arial, Helvetica, sans-serif" font-size="22px" fill="#79a8ff" font-weight="700" text-anchor="start">Satvik Singhal&#x27;s GitHub Stats</text>
+<text x="105" y="165" font-family="Arial, Helvetica, sans-serif" font-size="20px" fill="#b88cff" font-weight="400" text-anchor="start">☆</text>
+<text x="135" y="165" font-family="Arial, Helvetica, sans-serif" font-size="15px" fill="#39d0c8" font-weight="700" text-anchor="start">Total Stars Earned:</text>
+<text x="410" y="165" font-family="Arial, Helvetica, sans-serif" font-size="15px" fill="#39d0c8" font-weight="700" text-anchor="start">2</text>
+<text x="105" y="195" font-family="Arial, Helvetica, sans-serif" font-size="20px" fill="#b88cff" font-weight="400" text-anchor="start">◷</text>
+<text x="135" y="195" font-family="Arial, Helvetica, sans-serif" font-size="15px" fill="#39d0c8" font-weight="700" text-anchor="start">Total Commits (last year):</text>
+<text x="410" y="195" font-family="Arial, Helvetica, sans-serif" font-size="15px" fill="#39d0c8" font-weight="700" text-anchor="start">216</text>
+<text x="105" y="225" font-family="Arial, Helvetica, sans-serif" font-size="20px" fill="#b88cff" font-weight="400" text-anchor="start">⑂</text>
+<text x="135" y="225" font-family="Arial, Helvetica, sans-serif" font-size="15px" fill="#39d0c8" font-weight="700" text-anchor="start">Total PRs:</text>
+<text x="410" y="225" font-family="Arial, Helvetica, sans-serif" font-size="15px" fill="#39d0c8" font-weight="700" text-anchor="start">0</text>
+<text x="105" y="255" font-family="Arial, Helvetica, sans-serif" font-size="20px" fill="#b88cff" font-weight="400" text-anchor="start">ⓘ</text>
+<text x="135" y="255" font-family="Arial, Helvetica, sans-serif" font-size="15px" fill="#39d0c8" font-weight="700" text-anchor="start">Total Issues:</text>
+<text x="410" y="255" font-family="Arial, Helvetica, sans-serif" font-size="15px" fill="#39d0c8" font-weight="700" text-anchor="start">0</text>
+<text x="105" y="285" font-family="Arial, Helvetica, sans-serif" font-size="20px" fill="#b88cff" font-weight="400" text-anchor="start">▣</text>
+<text x="135" y="285" font-family="Arial, Helvetica, sans-serif" font-size="15px" fill="#39d0c8" font-weight="700" text-anchor="start">Contributed to (last year):</text>
+<text x="410" y="285" font-family="Arial, Helvetica, sans-serif" font-size="15px" fill="#39d0c8" font-weight="700" text-anchor="start">230</text>
+<rect x="630" y="95" width="490" height="230" rx="7" fill="#1b1f2a" stroke="none"/>
+<text x="660" y="135" font-family="Arial, Helvetica, sans-serif" font-size="22px" fill="#79a8ff" font-weight="700" text-anchor="start">Most Used Languages</text>
+<rect x="660" y="165" width="202.7598936910235" height="12" fill="#3178c6"/>
+<rect x="862.7598936910235" y="165" width="201.19191189813694" height="12" fill="#e34c26"/>
+<rect x="1063.9518055891604" y="165" width="12.209219241471088" height="12" fill="#f1e05a"/>
+<rect x="1076.1610248306315" y="165" width="2.9307366017420757" height="12" fill="#563d7c"/>
+<rect x="1079.0917614323737" y="165" width="0.9082385676264214" height="12" fill="#3572A5"/>
+<circle cx="666" cy="200" r="6" fill="#3178c6"/>
+<text x="680" y="205" font-family="Arial, Helvetica, sans-serif" font-size="14px" fill="#39d0c8" font-weight="400" text-anchor="start">TypeScript 48.28%</text>
+<circle cx="666" cy="228" r="6" fill="#e34c26"/>
+<text x="680" y="233" font-family="Arial, Helvetica, sans-serif" font-size="14px" fill="#39d0c8" font-weight="400" text-anchor="start">HTML 47.90%</text>
+<circle cx="666" cy="256" r="6" fill="#f1e05a"/>
+<text x="680" y="261" font-family="Arial, Helvetica, sans-serif" font-size="14px" fill="#39d0c8" font-weight="400" text-anchor="start">Python 2.91%</text>
+<circle cx="666" cy="284" r="6" fill="#563d7c"/>
+<text x="680" y="289" font-family="Arial, Helvetica, sans-serif" font-size="14px" fill="#39d0c8" font-weight="400" text-anchor="start">JavaScript 0.70%</text>
+<circle cx="666" cy="312" r="6" fill="#3572A5"/>
+<text x="680" y="317" font-family="Arial, Helvetica, sans-serif" font-size="14px" fill="#39d0c8" font-weight="400" text-anchor="start">CSS 0.22%</text>
+<rect x="290" y="350" width="620" height="170" rx="7" fill="#1b1f2a" stroke="none"/>
+<line x1="495" y1="375" x2="495" y2="495" stroke="#d0d7de" stroke-width="1"/>
+<line x1="705" y1="375" x2="705" y2="495" stroke="#d0d7de" stroke-width="1"/>
+<text x="395" y="420" font-family="Arial, Helvetica, sans-serif" font-size="30px" fill="#79a8ff" font-weight="700" text-anchor="middle">230</text>
+<text x="395" y="450" font-family="Arial, Helvetica, sans-serif" font-size="13px" fill="#79a8ff" font-weight="400" text-anchor="middle">Total Contributions</text>
+<text x="395" y="475" font-family="Arial, Helvetica, sans-serif" font-size="12px" fill="#39d0c8" font-weight="400" text-anchor="middle">2025-08-25 - Present</text>
+<circle cx="600" cy="415" r="39" fill="none" stroke="#79a8ff" stroke-width="6"/>
+<text x="600" y="425" font-family="Arial, Helvetica, sans-serif" font-size="27px" fill="#79a8ff" font-weight="700" text-anchor="middle">6</text>
+<text x="600" y="465" font-family="Arial, Helvetica, sans-serif" font-size="13px" fill="#c78cff" font-weight="700" text-anchor="middle">Current Streak</text>
+<text x="805" y="420" font-family="Arial, Helvetica, sans-serif" font-size="30px" fill="#79a8ff" font-weight="700" text-anchor="middle">6</text>
+<text x="805" y="450" font-family="Arial, Helvetica, sans-serif" font-size="13px" fill="#79a8ff" font-weight="400" text-anchor="middle">Longest Streak</text>
+<text x="600" y="575" font-family="Arial, Helvetica, sans-serif" font-size="17px" fill="#8b949e" font-weight="400" text-anchor="middle">Satvik Singhal&#x27;s Contribution Graph</text>
+<line x1="125" y1="755.0" x2="1075" y2="755.0" stroke="#21262d" stroke-width="1"/>
+<text x="110" y="760.0" font-family="Arial, Helvetica, sans-serif" font-size="10px" fill="#8b949e" font-weight="400" text-anchor="end">0</text>
+<line x1="125" y1="726.0" x2="1075" y2="726.0" stroke="#21262d" stroke-width="1"/>
+<text x="110" y="731.0" font-family="Arial, Helvetica, sans-serif" font-size="10px" fill="#8b949e" font-weight="400" text-anchor="end">3</text>
+<line x1="125" y1="697.0" x2="1075" y2="697.0" stroke="#21262d" stroke-width="1"/>
+<text x="110" y="702.0" font-family="Arial, Helvetica, sans-serif" font-size="10px" fill="#8b949e" font-weight="400" text-anchor="end">6</text>
+<line x1="125" y1="668.0" x2="1075" y2="668.0" stroke="#21262d" stroke-width="1"/>
+<text x="110" y="673.0" font-family="Arial, Helvetica, sans-serif" font-size="10px" fill="#8b949e" font-weight="400" text-anchor="end">8</text>
+<line x1="125" y1="639.0" x2="1075" y2="639.0" stroke="#21262d" stroke-width="1"/>
+<text x="110" y="644.0" font-family="Arial, Helvetica, sans-serif" font-size="10px" fill="#8b949e" font-weight="400" text-anchor="end">11</text>
+<line x1="125" y1="610.0" x2="1075" y2="610.0" stroke="#21262d" stroke-width="1"/>
+<text x="110" y="615.0" font-family="Arial, Helvetica, sans-serif" font-size="10px" fill="#8b949e" font-weight="400" text-anchor="end">14</text>
+<polyline points="125.0,755.0 157.8,755.0 190.5,734.3 223.3,755.0 256.0,703.2 288.8,755.0 321.6,755.0 354.3,713.6 387.1,672.1 419.8,734.3 452.6,734.3 485.3,755.0 518.1,620.4 550.9,755.0 583.6,734.3 616.4,744.6 649.1,755.0 681.9,755.0 714.7,755.0 747.4,651.4 780.2,692.9 812.9,723.9 845.7,755.0 878.4,755.0 911.2,610.0 944.0,703.2 976.7,713.6 1009.5,703.2 1042.2,734.3 1075.0,734.3" fill="none" stroke="#238636" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="125.0" cy="755.0" r="4" fill="#8b949e"/>
+<circle cx="157.8" cy="755.0" r="4" fill="#8b949e"/>
+<circle cx="190.5" cy="734.3" r="4" fill="#8b949e"/>
+<circle cx="223.3" cy="755.0" r="4" fill="#8b949e"/>
+<circle cx="256.0" cy="703.2" r="4" fill="#8b949e"/>
+<circle cx="288.8" cy="755.0" r="4" fill="#8b949e"/>
+<circle cx="321.6" cy="755.0" r="4" fill="#8b949e"/>
+<circle cx="354.3" cy="713.6" r="4" fill="#8b949e"/>
+<circle cx="387.1" cy="672.1" r="4" fill="#8b949e"/>
+<circle cx="419.8" cy="734.3" r="4" fill="#8b949e"/>
+<circle cx="452.6" cy="734.3" r="4" fill="#8b949e"/>
+<circle cx="485.3" cy="755.0" r="4" fill="#8b949e"/>
+<circle cx="518.1" cy="620.4" r="4" fill="#8b949e"/>
+<circle cx="550.9" cy="755.0" r="4" fill="#8b949e"/>
+<circle cx="583.6" cy="734.3" r="4" fill="#8b949e"/>
+<circle cx="616.4" cy="744.6" r="4" fill="#8b949e"/>
+<circle cx="649.1" cy="755.0" r="4" fill="#8b949e"/>
+<circle cx="681.9" cy="755.0" r="4" fill="#8b949e"/>
+<circle cx="714.7" cy="755.0" r="4" fill="#8b949e"/>
+<circle cx="747.4" cy="651.4" r="4" fill="#8b949e"/>
+<circle cx="780.2" cy="692.9" r="4" fill="#8b949e"/>
+<circle cx="812.9" cy="723.9" r="4" fill="#8b949e"/>
+<circle cx="845.7" cy="755.0" r="4" fill="#8b949e"/>
+<circle cx="878.4" cy="755.0" r="4" fill="#8b949e"/>
+<circle cx="911.2" cy="610.0" r="4" fill="#8b949e"/>
+<circle cx="944.0" cy="703.2" r="4" fill="#8b949e"/>
+<circle cx="976.7" cy="713.6" r="4" fill="#8b949e"/>
+<circle cx="1009.5" cy="703.2" r="4" fill="#8b949e"/>
+<circle cx="1042.2" cy="734.3" r="4" fill="#8b949e"/>
+<circle cx="1075.0" cy="734.3" r="4" fill="#8b949e"/>
+<text x="125.0" y="780" font-family="Arial, Helvetica, sans-serif" font-size="10px" fill="#8b949e" font-weight="400" text-anchor="middle">27</text>
+<text x="223.27586206896552" y="780" font-family="Arial, Helvetica, sans-serif" font-size="10px" fill="#8b949e" font-weight="400" text-anchor="middle">30</text>
+<text x="321.55172413793105" y="780" font-family="Arial, Helvetica, sans-serif" font-size="10px" fill="#8b949e" font-weight="400" text-anchor="middle">02</text>
+<text x="419.82758620689657" y="780" font-family="Arial, Helvetica, sans-serif" font-size="10px" fill="#8b949e" font-weight="400" text-anchor="middle">05</text>
+<text x="518.1034482758621" y="780" font-family="Arial, Helvetica, sans-serif" font-size="10px" fill="#8b949e" font-weight="400" text-anchor="middle">08</text>
+<text x="616.3793103448277" y="780" font-family="Arial, Helvetica, sans-serif" font-size="10px" fill="#8b949e" font-weight="400" text-anchor="middle">11</text>
+<text x="714.6551724137931" y="780" font-family="Arial, Helvetica, sans-serif" font-size="10px" fill="#8b949e" font-weight="400" text-anchor="middle">14</text>
+<text x="812.9310344827586" y="780" font-family="Arial, Helvetica, sans-serif" font-size="10px" fill="#8b949e" font-weight="400" text-anchor="middle">17</text>
+<text x="911.2068965517241" y="780" font-family="Arial, Helvetica, sans-serif" font-size="10px" fill="#8b949e" font-weight="400" text-anchor="middle">20</text>
+<text x="1009.4827586206897" y="780" font-family="Arial, Helvetica, sans-serif" font-size="10px" fill="#8b949e" font-weight="400" text-anchor="middle">23</text>
+</svg>
