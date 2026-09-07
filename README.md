@@ -14,14 +14,13 @@ Building AI-powered applications, intelligent automation, and real-world softwar
 
 🎓 B.Tech Computer Science Engineering (AI & ML) Student at **Indraprastha Engineering College (AKTU)**
 
-💼 Currently Interning At
-
-- 📊 **InAmigos Foundation (IAF)** — AI Data Analytics Intern
+<!-- 💼 Currently Interning At -->
 
 💼 Was An Intern At
 
 - 🐍 **DecodeLabs** — Python Programming Intern
 - 🤖 **IncodeVision** — Artificial Intelligence Intern
+- 📊 **InAmigos Foundation (IAF)** — AI Data Analytics Intern
 
 
 🤖 Passionate about
