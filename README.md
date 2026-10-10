@@ -241,7 +241,7 @@ An AI-powered voice calling assistant exploring conversational AI and intelligen
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Satvik-Creations&bg_color=0D1117&color=C9D1D9&line=3FB950&point=F97316&area=true&hide_border=true&custom_title=Satvik%27s%20Contribution%20Activity"
+    src="![Satvik's GitHub Contribution Activity](https://raw.githubusercontent.com/Satvik-Creations/Satvik-Creations/output/activity-graph.svg)"
     alt="GitHub Contribution Activity Graph"
     width="100%"
   />
