@@ -1,0 +1,38 @@
+name: Update GitHub Activity Graph
+
+on:
+  schedule:
+    - cron: "17 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: Satvik-Creations
+          token: ${{ secrets.GITHUB_TOKEN }}
+          output_path: dist/activity-graph.svg
+          options: >-
+            bg_color=0D1117
+            &color=C9D1D9
+            &line=3FB950
+            &point=F97316
+            &area=true
+            &area_color=238636
+            &hide_border=true
+            &custom_title=Satvik%27s%20Contribution%20Activity
+
+      - name: Publish graph
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
