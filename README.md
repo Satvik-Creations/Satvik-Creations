@@ -241,10 +241,10 @@ An AI-powered voice calling assistant exploring conversational AI and intelligen
 
 <p align="center">
   <img
-    src="![Satvik's GitHub Contribution Activity](https://raw.githubusercontent.com/Satvik-Creations/Satvik-Creations/output/activity-graph.svg)"
-    alt="GitHub Contribution Activity Graph"
-    width="100%"
-  />
+  src="https://raw.githubusercontent.com/Satvik-Creations/Satvik-Creations/main/assets/activity-graph.svg"
+  alt="GitHub Contribution Activity Graph"
+  width="100%"
+/>
 </p>
 ---
 
