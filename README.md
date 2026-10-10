@@ -239,13 +239,6 @@ An AI-powered voice calling assistant exploring conversational AI and intelligen
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Satvik-Creations&bg_color=0D1117&color=C9D1D9&line=3FB950&point=F97316&area=true&hide_border=true&custom_title=Satvik%27s%20Contribution%20Activity"
-    alt="GitHub Contribution Activity Graph"
-    width="100%"
-  />
-</p>
 ---
 
 # 🌐 Connect with Me
