@@ -220,32 +220,12 @@ An AI-powered voice calling assistant exploring conversational AI and intelligen
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Satvik-Creations&theme=dark&hide_border=true&background=0D1117&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=C9D1D9&dates=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC"
-    alt="GitHub Contribution Streak"
+    src="https://raw.githubusercontent.com/Satvik-Creations/Satvik-Creations/main/assets/github-dashboard.svg"
+    alt="Satvik's GitHub Stats, Languages, Contribution Streak and Activity Graph"
     width="100%"
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Satvik-Creations&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=F97316&include_all_commits=true"
-    alt="GitHub Stats"
-    width="49%"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satvik-Creations&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
-    alt="Most Used Languages"
-    width="49%"
-  />
-</p>
-
-<p align="center">
-  <img
-  src="https://raw.githubusercontent.com/Satvik-Creations/Satvik-Creations/main/assets/activity-graph.svg"
-  alt="GitHub Contribution Activity Graph"
-  width="100%"
-/>
-</p>
 ---
 
 # 🌐 Connect with Me
